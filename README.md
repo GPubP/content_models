@@ -2,7 +2,7 @@
 Een repository met generieke en project specifieke content modellen (content types, blokken, componenten, etc).
 
 * In de [Templates](/templates) folder vind je de generieke structuren terug. 
-* In de [Tenants](/tenants) vind je de content modellen terug per tenant & site
+* In de [Tenants](/tenants) vind je de content modellen terug per tenant.
 
 ## Contributie
 
